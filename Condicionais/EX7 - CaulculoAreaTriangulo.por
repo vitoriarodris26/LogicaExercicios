@@ -19,7 +19,7 @@ programa
 		leia (altura)
 
 		
-		se (base>=0 e altura>=0){
+		se (base!=0 e altura!=0){
 			area=((base*altura)/2)
 			escreva("\nA área do seu triângulo é: " + area + "cm")
 		}senao{
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 599; 
+ * @POSICAO-CURSOR = 184; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
